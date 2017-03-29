@@ -1,0 +1,9 @@
+C:\Users\Mastermind\Desktop\Graphs\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\Mastermind\Desktop\Graphs\Graphs\bin\Debug\Graphs.exe
+C:\Users\Mastermind\Desktop\Graphs\Graphs\bin\Debug\Graphs.pdb
+C:\Users\Mastermind\Desktop\Graphs\Graphs\bin\Debug\Graphs.xml
+C:\Users\Mastermind\Desktop\Graphs\Graphs\obj\Debug\Graphs.Resources.resources
+C:\Users\Mastermind\Desktop\Graphs\Graphs\obj\Debug\Graphs.vbproj.GenerateResource.Cache
+C:\Users\Mastermind\Desktop\Graphs\Graphs\obj\Debug\Graphs.exe
+C:\Users\Mastermind\Desktop\Graphs\Graphs\obj\Debug\Graphs.xml
+C:\Users\Mastermind\Desktop\Graphs\Graphs\obj\Debug\Graphs.pdb
